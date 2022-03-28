@@ -1,0 +1,6 @@
+D:\VHaaSh-DotNet\DotNet\ADO.NET\DBlayer\bin\Debug\DBlayer.dll
+D:\VHaaSh-DotNet\DotNet\ADO.NET\DBlayer\bin\Debug\DBlayer.pdb
+D:\VHaaSh-DotNet\DotNet\ADO.NET\DBlayer\obj\Debug\StudentHelper.csproj.CoreCompileInputs.cache
+D:\VHaaSh-DotNet\DotNet\ADO.NET\DBlayer\obj\Debug\DBlayer.dll
+D:\VHaaSh-DotNet\DotNet\ADO.NET\DBlayer\obj\Debug\DBlayer.pdb
+D:\VHaaSh-DotNet\DotNet\ADO.NET\DBlayer\obj\Debug\StudentHelper.csproj.AssemblyReference.cache
